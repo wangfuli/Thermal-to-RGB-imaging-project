@@ -3,6 +3,9 @@ ELEG 404 Digital Imaging Project at University of Delaware.
 
 In this project, we are interested in training a convolutional autoencoder model to convert thermal images to RGB images. 
 
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/48502117/169717499-84c14aba-104b-492b-bc0c-ac469f5554bc.png"><img width="300" alt="image" src="https://user-images.githubusercontent.com/48502117/169717508-d095d6db-fba8-4f28-8cb7-cbdb118b4f76.png">
+
+
 Initially, we acquired a wide range of images such as dogs, cars, tables, etc. However, this becomes a major challenge for the model to learn 
 the relationship between thermal images and RGB images. So, we narrowed down images to only buildings on campus. Besides, there are 
 some really dark RGB images, which make the model learn to output only black images. So we had to throw away these images. Interms of image colors,
