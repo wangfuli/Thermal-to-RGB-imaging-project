@@ -15,7 +15,7 @@ decoding model, we also adopted different loss functions including mean squered 
 
 All data we acquired are in the data folder, the data we used for the final traininng are "Thermal Buildings" and "RGB Buildings". The two folders "Thermal" and "RGB" include all types of objects we initially acquired.
 
-# Contributors to the project are: Jacob Stafford, Bright Lu, Steven Shreve, Fuli Wang
+### Contributors to the project are: Jacob Stafford, Bright Lu, Steven Shreve, Fuli Wang
 
 
 
